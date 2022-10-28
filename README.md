@@ -1,6 +1,6 @@
 # EXT2160
 
-![EXT2160](images/EXT2160_MAIN.jpg)
+![EXT2160](./IMG_6084.jpg)
 
 ## Introduction
 
