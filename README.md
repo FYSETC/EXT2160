@@ -24,3 +24,5 @@ The driver can be used in any occasion using a stepper motor, and comes with a S
 - Aluminum shell, taking into account both beauty and heat dissipation
 - 2x5 DC3 connector, including SPI and S/D
 - 1x7 DIP selector switch for Standalone mode， current regulation and function configuration
+
+For more info :  wiki.fysetc.com/EXT2160
